@@ -38,7 +38,7 @@ A multi-model AI comparison platform for streaming responses from multiple model
 **Backend:** Node.js · TypeScript · Express · API Design  
 **Data:** PostgreSQL · Prisma · Caching  
 **AI:** LangChain · Gemini · OpenRouter · LLM APIs  
-**Frontend:** React · Next.js · Vite  
+**Frontend:** React · Vite  
 **Engineering:** Testing · Validation · Resilience · Concurrency · Distributed Systems  
 **Infrastructure:** Docker · Linux · GitHub Actions
 
