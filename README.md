@@ -13,6 +13,8 @@ My projects emphasize validation, testing, failure isolation, security, and main
 
 ### 🎬 [Lumière — AI Movie Concierge](https://github.com/Eliya25/lumiere-ai-movie-concierge)
 
+[🚀 Live Demo](https://lumiere-ai-movie-concierge.vercel.app/) · [Source Code](https://github.com/Eliya25/lumiere-ai-movie-concierge)
+
 A full-stack AI movie concierge that turns natural-language preferences into curated watchlists enriched with real data from TMDB.
 
 - AI orchestration with **LangChain** and **Google Gemini**
