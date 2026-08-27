@@ -13,17 +13,19 @@ My projects emphasize validation, testing, failure isolation, security, and main
 
 ### 🎬 [Lumière — AI Movie Concierge](https://github.com/Eliya25/lumiere-ai-movie-concierge)
 
-[🚀 Live Demo](https://lumiere-ai-movie-concierge.vercel.app/) · [Source Code](https://github.com/Eliya25/lumiere-ai-movie-concierge)
+[🚀 Live Demo](https://lumiere-ai-movie-concierge.vercel.app/) · [▶ Product Demo](https://lumiere-ai-movie-concierge.vercel.app/lumiere-demo.webm) · [💚 API Health](https://lumiere-ai-movie-concierge-api.vercel.app/health) · [Source Code](https://github.com/Eliya25/lumiere-ai-movie-concierge)
 
-A full-stack AI movie concierge that turns natural-language preferences into curated watchlists enriched with real data from TMDB.
+A production-oriented AI movie concierge that turns natural-language preferences into curated watchlists enriched with real movie data from TMDB.
 
 - AI orchestration with **LangChain** and **Google Gemini**
 - **Express 5**, **React 19**, and strict **TypeScript**
-- Schema-validated AI output and API requests with **Zod**
+- Schema-validated requests and structured AI output with **Zod**
 - Concurrent TMDB enrichment with per-movie fault isolation
 - Per-IP rate limiting and bounded TTL caching
-- Automated API and integration tests with **Vitest** and **Supertest**
-- Accessible, responsive interface with contextual recommendation refinement
+- Backend API tests, frontend component tests, and a mocked **Playwright E2E** flow
+- Automated quality gates with **GitHub Actions CI**
+- Production deployment with **Vercel Analytics** and **Speed Insights**
+- Accessible, responsive interface with contextual refinement and regeneration
 
 ### ⚔️ [LLM Arena](https://github.com/Eliya25/llm-arena)
 
