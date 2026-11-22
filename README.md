@@ -2,14 +2,11 @@
   <img src="./assets/hero.svg" alt="Eliya Cohen — Backend Engineering" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://eliya-portfolio.vercel.app">Portfolio & Case Studies</a> ·
-  <a href="https://github.com/Eliya25?tab=repositories">Repositories</a>
-</p>
+<p align="center"><strong>Backend Development · PostgreSQL · AI Integrations</strong></p>
 
-I build backend services and AI-enabled applications, with a focus on **API reliability, data integrity, security, and testing**. Alongside development, I take responsibility for technical decisions and coordinating developers' work.
+I build backend applications and integrate AI services using **Node.js, TypeScript, Python, and PostgreSQL**. I care about clear APIs, validation, automated testing, and maintainable code. In my acting team lead role, I also coordinate development work and contribute to technical decisions.
 
-### 🛠️ Core Stack
+### 🛠️ Core Technologies
 
 <p align="center">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" />
@@ -21,22 +18,25 @@ I build backend services and AI-enabled applications, with a focus on **API reli
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" />
 </p>
 
-| Area | Technologies & Practices |
+### 🧭 What I Work With
+
+| Area | Tools & Practices |
 | --- | --- |
-| **Backend & Data** | JavaScript, TypeScript, Python, SQL, Node.js, Express, PostgreSQL, Prisma |
-| **Engineering & Delivery** | REST APIs, authentication & authorization, automated tests, CI/CD, Docker, Linux |
-| **Applied AI** | LLM APIs, LangChain, streaming responses, RAG and vector search |
+| **Backend & APIs** | Node.js, Express, TypeScript, Python, REST APIs, Zod |
+| **Databases** | PostgreSQL, SQL, Prisma |
+| **Testing & Delivery** | Git, Docker, Linux, GitHub Actions, Vitest, Playwright |
+| **AI Integrations** | LLM APIs, LangChain, streaming responses, RAG |
 
 ### 🚀 Selected Projects
 
 | Project | Engineering Highlights |
 | --- | --- |
-| **[LLM Arena](https://github.com/Eliya25/llm-arena)** | Independent model streams, PostgreSQL persistence, retry safety, server-side authorization and observability |
-| **[Lumière](https://github.com/Eliya25/lumiere-ai-movie-concierge)** | Validated LLM output, concurrent API enrichment, failure isolation, bounded caching, automated tests · [Live demo](https://lumiere-ai-movie-concierge.vercel.app/) |
-| **[RAG PDF Assistant](https://github.com/Eliya25/rag-pdf-demo)** | Python, local embeddings, custom vector search, page-aware document retrieval and inspectable sources |
+| **[LLM Arena](https://github.com/Eliya25/llm-arena)** | Independent LLM streams, PostgreSQL persistence, retry handling, authorization and observability |
+| **[Lumière](https://github.com/Eliya25/lumiere-ai-movie-concierge)** | Validated AI output, external API enrichment, failure isolation, caching and automated tests · [Live demo](https://lumiere-ai-movie-concierge.vercel.app/) |
+| **[RAG PDF Assistant](https://github.com/Eliya25/rag-pdf-demo)** | Python, local embeddings, custom vector search and page-aware retrieval |
 
-### 📚 Currently Deepening
+### 📚 Currently Learning More About
 
 Distributed systems · System design · AWS · Networking · Operating systems
 
-<p align="center"><sub>B.Sc. in Computer Science · Building beyond the happy path.</sub></p>
+<p align="center"><sub>B.Sc. in Computer Science · Building and learning beyond the happy path.</sub></p>
