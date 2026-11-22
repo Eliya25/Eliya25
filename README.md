@@ -1,66 +1,42 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/hero.svg" alt="Eliya Cohen — Backend Engineering" width="100%" />
+</p>
 
-# Hi, I'm Eliya 👋
+<p align="center">
+  <a href="https://eliya-portfolio.vercel.app">Portfolio & Case Studies</a> ·
+  <a href="https://github.com/Eliya25?tab=repositories">Repositories</a>
+</p>
 
-### Backend Engineer building reliable systems and AI-powered applications
+I build backend services and AI-enabled applications, with a focus on **API reliability, data integrity, security, and testing**. Alongside development, I take responsibility for technical decisions and coordinating developers' work.
 
-I focus on backend architecture, databases, resilient API design, and practical AI integrations.  
-My projects emphasize validation, testing, failure isolation, security, and maintainable system design.
+### 🛠️ Core Stack
 
-</div>
+<p align="center">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" />
+</p>
 
-## Featured Projects
+| Area | Technologies & Practices |
+| --- | --- |
+| **Backend & Data** | JavaScript, TypeScript, Python, SQL, Node.js, Express, PostgreSQL, Prisma |
+| **Engineering & Delivery** | REST APIs, authentication & authorization, automated tests, CI/CD, Docker, Linux |
+| **Applied AI** | LLM APIs, LangChain, streaming responses, RAG and vector search |
 
-### 🎬 [Lumière — AI Movie Concierge](https://github.com/Eliya25/lumiere-ai-movie-concierge)
+### 🚀 Selected Projects
 
-[🚀 Live Demo](https://lumiere-ai-movie-concierge.vercel.app/) · [▶ Product Demo](https://lumiere-ai-movie-concierge.vercel.app/lumiere-demo.webm) · [💚 API Health](https://lumiere-ai-movie-concierge-api.vercel.app/health) · [Source Code](https://github.com/Eliya25/lumiere-ai-movie-concierge)
+| Project | Engineering Highlights |
+| --- | --- |
+| **[LLM Arena](https://github.com/Eliya25/llm-arena)** | Independent model streams, PostgreSQL persistence, retry safety, server-side authorization and observability |
+| **[Lumière](https://github.com/Eliya25/lumiere-ai-movie-concierge)** | Validated LLM output, concurrent API enrichment, failure isolation, bounded caching, automated tests · [Live demo](https://lumiere-ai-movie-concierge.vercel.app/) |
+| **[RAG PDF Assistant](https://github.com/Eliya25/rag-pdf-demo)** | Python, local embeddings, custom vector search, page-aware document retrieval and inspectable sources |
 
-A production-oriented AI movie concierge that turns natural-language preferences into curated watchlists enriched with real movie data from TMDB.
+### 📚 Currently Deepening
 
-- AI orchestration with **LangChain** and **Google Gemini**
-- **Express 5**, **React 19**, and strict **TypeScript**
-- Schema-validated requests and structured AI output with **Zod**
-- Concurrent TMDB enrichment with per-movie fault isolation
-- Per-IP rate limiting and bounded TTL caching
-- Backend API tests, frontend component tests, and a mocked **Playwright E2E** flow
-- Automated quality gates with **GitHub Actions CI**
-- Production deployment with **Vercel Analytics** and **Speed Insights**
-- Accessible, responsive interface with contextual refinement and regeneration
+Distributed systems · System design · AWS · Networking · Operating systems
 
-### ⚔️ [LLM Arena](https://github.com/Eliya25/llm-arena)
-
-A multi-model AI comparison platform for streaming responses from multiple models, comparing their answers, and voting for the best result.
-
-- Parallel LLM response streaming
-- Persistent conversations and response history
-- Authentication, voting, and public conversation sharing
-- Built with **Next.js**, **TypeScript**, **PostgreSQL**, and **Prisma**
-- OpenRouter-powered multi-model integration
-
-## Technology Focus
-
-**Backend:** Node.js · TypeScript · Express · API Design  
-**Data:** PostgreSQL · Prisma · Caching  
-**AI:** LangChain · Gemini · OpenRouter · LLM APIs  
-**Frontend:** React · Vite  
-**Engineering:** Testing · Validation · Resilience · Concurrency · Distributed Systems  
-**Infrastructure:** Docker · Linux · GitHub Actions
-
-## Currently Exploring
-
-- Production-grade backend architecture
-- Distributed systems and concurrency
-- Reliable LLM integrations and AI agents
-- Cloud infrastructure and system design
-
-## Education
-
-B.Sc. in Computer Science
-
----
-
-<div align="center">
-
-Building projects that go beyond the happy path.
-
-</div>
+<p align="center"><sub>B.Sc. in Computer Science · Building beyond the happy path.</sub></p>
