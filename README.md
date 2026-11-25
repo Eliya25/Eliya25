@@ -4,7 +4,7 @@
 
 <p align="center"><strong>Backend Development · PostgreSQL · AI Integrations</strong></p>
 
-I build backend applications and integrate AI services using **Node.js, TypeScript, Python, and PostgreSQL**. I care about clear APIs, validation, automated testing, and maintainable code. In my acting team lead role, I also coordinate development work and contribute to technical decisions.
+I build backend applications and integrate AI services using **Node.js, TypeScript, Python, and PostgreSQL**. I care about clear APIs, validation, automated testing, and maintainable code. As a development team lead, I coordinate developers, drive technical decisions, and help move projects forward.
 
 ### 🛠️ Core Technologies
 
