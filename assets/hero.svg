@@ -20,7 +20,7 @@
   <rect x="54" y="48" width="80" height="5" rx="2.5" fill="url(#line)"/>
   <text x="54" y="91" fill="#88CBE5" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="3.5">BACKEND ENGINEERING</text>
   <text x="52" y="161" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="700">Eliya Cohen</text>
-  <text x="54" y="205" fill="#DAE6F1" font-family="Segoe UI, Arial, sans-serif" font-size="22">Backend Engineer  ·  Acting Development Team Lead</text>
+  <text x="54" y="205" fill="#DAE6F1" font-family="Segoe UI, Arial, sans-serif" font-size="22">Backend Engineer  ·  Development Team Lead</text>
   <text x="54" y="254" fill="#AAD1DD" font-family="Segoe UI, Arial, sans-serif" font-size="19">Backend Development   /   PostgreSQL   /   AI Integrations</text>
   <g opacity=".80" stroke="#61C7E7" stroke-width="2.2" fill="none">
     <path d="M852 72 H947 L1010 123 H1104"/>
